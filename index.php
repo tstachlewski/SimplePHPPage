@@ -19,7 +19,8 @@
 
                 <img src="assets/images/unicorn.jpg" valign="center">
 
-                <h3> Konteneryzacja wcale nie jest taka trudna </h3>
+                <h3> Konteneryzacja wcale nie jest taka trudna.</h3>
+                
                 <?php
 
                   $hostname = getenv('HOSTNAME');
