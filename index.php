@@ -19,9 +19,7 @@
 
                 <img src="assets/images/unicorn.jpg" valign="center">
 
-                <h1>To jest kurs o konteneryzacji w AWS</h1>
-                <h2>by Tomasz</h2>
-
+                <h3> Konteneryzacja wcale nie jest taka trudna </h3>
                 <?php
 
                   $hostname = getenv('HOSTNAME');
